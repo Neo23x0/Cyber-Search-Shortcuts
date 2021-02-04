@@ -3,9 +3,16 @@ Browser Shortcuts for Cyber Security Related Online Services
 
 ## The Idea
 
-I use browser search shortcuts for many different platforms (internal and external) and would like to share some very useful ones with you.
+I use browser search shortcuts for many different platforms (internal and external) and would like to share some very useful ones with you. They speed up online lookups and thus your whole analysis process. This repository lists well-known public services that allow you to use such search queries. If you use a certain site/service that you cannot find in our list, please add it and provide a pull request on this README.md file.  
 
-They speed up lookups 
+## Setup
+
+Modern browser feature custom search engines, to which you can add new entries. Using the shortcuts you can then just open a new tab, type that shortcut and paste your search. 
+
+![Browser Custom Search Engines](/screens/screen1.png)
+![Add Custom Search Engine](/screens/screen2.png)
+
+It's usually just a CTRL+T, Shortcut, CTRL+V and ENTER to get a result. Super fast and comfortable. 
 
 ## Virustotal 
 
