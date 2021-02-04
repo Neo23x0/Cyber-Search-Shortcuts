@@ -18,7 +18,7 @@ Modern browsers feature custom search engines, to which you can add new entries.
 
 In Firefox create a bookmark with one of the URLs containing that `%s` placeholder, edit that bookmark, assign a keyword and save it to make it usable in the search bar. 
 
-![Edit Bookmark in Firefox to Add a Keyword](/screens/screen2.png)
+![Edit Bookmark in Firefox to Add a Keyword](/screens/screen3.png)
 
 ### Demo
 
