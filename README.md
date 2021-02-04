@@ -64,7 +64,7 @@ https://www.shodan.io/search?query=%s
 
 ## ZoomEye 
 
-https://www.zoomeye.org/searchResult?q=operaa.net
+https://www.zoomeye.org/searchResult?q=%s
 
 ## Valhalla (YARA Rule Repo)
 
