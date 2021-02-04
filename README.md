@@ -14,6 +14,8 @@ Modern browser feature custom search engines, to which you can add new entries. 
 
 It's usually just a CTRL+T, Shortcut, CTRL+V and ENTER to get a result. Super fast and comfortable. 
 
+![Browser Shortcut Demo](/screens/browser_shortcuts.gif)
+
 ## Virustotal 
 
 ### Search
