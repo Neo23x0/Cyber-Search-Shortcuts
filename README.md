@@ -1,4 +1,4 @@
-# TI-Search-Shortcuts
+# Cyber-Search-Shortcuts
 Browser Shortcuts for Cyber Security Related Online Services
 
 ## The Idea
@@ -16,7 +16,7 @@ It's usually just a CTRL+T, Shortcut, CTRL+V and ENTER to get a result. Super fa
 
 ## Virustotal 
 
-### Hash Search
+### Search
 
 https://www.virustotal.com/en/search/?query=%s
 
@@ -32,6 +32,44 @@ https://www.virustotal.com/gui/ip-address/%s/relations
 
 https://www.virustotal.com/intelligence/download/?sha256=%s
 
+## RiskIQ / PassiveTotal
 
+https://community.riskiq.com/research?query=%s
+
+## CenSys
+
+### Host Search
+
+https://censys.io/domain?q=%s
+
+### IP Search
+
+https://censys.io/ipv4/%s
+
+### Certificates
+
+https://censys.io/certificates?q=%s 
+
+## PublicWWW
+
+https://publicwww.com/websites/%s/
+
+## IntelligenceX
+
+https://intelx.io/?s=%s
+
+## ShodanHQ
+
+https://www.shodan.io/search?query=%s
+
+## ZoomEye 
+
+https://www.zoomeye.org/searchResult?q=operaa.net
+
+## Valhalla (YARA Rule Repo)
+
+### Rule Lookup 
+
+https://valhalla.nextron-systems.com/info/rule/%s
 
 
