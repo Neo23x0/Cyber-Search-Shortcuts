@@ -7,7 +7,7 @@ I use browser search shortcuts for many different platforms (internal and extern
 
 ## Setup
 
-Modern browsers feature custom search engines, to which you can add new entries. Simply look for "Manage search engines" in you browser settings. Using the shortcuts you can then just open a new tab, type that shortcut and paste your search. 
+Modern browsers feature custom search engines, to which you can add new entries. Simply look for `Manage search engines` in you browser settings. Using the shortcuts you can then just open a new tab, type that shortcut and paste your search. 
 
 ### Chrome, Brave, Chromium
 
