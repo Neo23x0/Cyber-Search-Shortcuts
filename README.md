@@ -7,10 +7,20 @@ I use browser search shortcuts for many different platforms (internal and extern
 
 ## Setup
 
-Modern browsers (except Firefox; please tell me if I'm wrong) feature custom search engines, to which you can add new entries. Simply look for "Manage search engines" in you browser settings. Using the shortcuts you can then just open a new tab, type that shortcut and paste your search. 
+Modern browsers feature custom search engines, to which you can add new entries. Simply look for "Manage search engines" in you browser settings. Using the shortcuts you can then just open a new tab, type that shortcut and paste your search. 
+
+### Chrome, Brave, Chromium
 
 ![Browser Custom Search Engines](/screens/screen1.png)
 ![Add Custom Search Engine](/screens/screen2.png)
+
+### Firefox
+
+In Firefox create a bookmark with one of the URLs containing that `%s` placeholder, edit that bookmark, assign a keyword and save it to make it usable in the search bar. 
+
+![Edit Bookmark in Firefox to Add a Keyword](/screens/screen2.png)
+
+### Demo
 
 It's usually just a CTRL+T, Shortcut, CTRL+V and ENTER to get a result. Super fast and comfortable. 
 
